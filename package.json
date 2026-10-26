@@ -1,0 +1,14 @@
+{
+  "name": "qlns-mvc",
+  "version": "1.0.0",
+  "description": "Website quan ly nhan su theo mo hinh MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  },
+  "engines": { "node": ">=20" }
+}
